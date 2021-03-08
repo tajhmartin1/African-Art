@@ -9,8 +9,8 @@ img{
     margin-left: auto;
     margin-right: auto;
 
-    height: 400px;
-    width: 400px;
+    height: 470px;
+    width: 600px;
 }
 .tab { margin-left: 40px;
 margin-right: 40px; }
@@ -25,9 +25,28 @@ li{
     font-size: 17px;
 }
 #br{
-    background-color: royalblue;
+    background-color: #6484ed;
     height: 10px;
 }
 #stretch{
     width: 600px;
+}
+a{
+    display: block;
+text-align: center;
+    border-radius: 25px;
+    background: #6484ed;
+    padding: 20px;
+    width: 150;
+    height: 100px;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    margin-left: auto ;
+    margin-right: auto;
+    color: white;
+
+    
+}
+a:visited{
+    color: white;
 }
