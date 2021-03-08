@@ -1,5 +1,5 @@
 body{
-    background-color: cadetblue;
+    background-color: #fff3c4;
 }
 h1, h2, h3{
     text-align: center;
@@ -12,4 +12,22 @@ img{
     height: 400px;
     width: 400px;
 }
-.tab { margin-left: 40px; }
+.tab { margin-left: 40px;
+margin-right: 40px; }
+p{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    background-color: pink;
+}
+li{
+    padding: 10px;
+    font-size: 17px;
+}
+#br{
+    background-color: royalblue;
+    height: 10px;
+}
+#stretch{
+    width: 600px;
+}
